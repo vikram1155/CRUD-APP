@@ -17,7 +17,7 @@ const Create = () => {
             body:JSON.stringify(blog)
         }).then(()=>{
             alert("New blog added");
-            history.push('/home');
+            history.push('/CRUD-APP/home');
         })   
     }
   
