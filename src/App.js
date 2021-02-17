@@ -1,7 +1,7 @@
 import './App.css';
 import Home from './Home';
 import Navbar from './Navbar';
-import { BrowserRouter as Router ,Switch, Route } from 'react-router-dom';
+import { HashRouter as Router ,Switch, Route } from 'react-router-dom';
 import Create from './Create';
 import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
