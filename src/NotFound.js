@@ -5,9 +5,9 @@ const NotFound=()=> {
     
     return (
         <div>
-            <h1>Webpage Cannot be Found</h1><br></br>
+            <h1>Find all the blogs in Home page</h1><br></br>
             <div className="Notfound">
-            <Link to='/'>Back to home</Link>
+            <Link to='/home'>Back to home</Link>
             </div>
         </div>
     )
