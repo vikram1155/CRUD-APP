@@ -5,8 +5,8 @@ function Navbar() {
         <nav className="navbar">
         <h1 className="a">Your Feed</h1>
             <div className="links">
-                <Link to="/home">Home</Link>
-                <Link to="/create">Create</Link>
+                <Link to="/CRUD-APP/home">Home</Link>
+                <Link to="/CRUD-APP/create">Create</Link>
             </div>
 
         </nav>
